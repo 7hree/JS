@@ -32,7 +32,7 @@ if (typeof $response == "undefined") {
     'Pillow':{ name: 'premium', id: 'com.neybox.pillow.premium.year.specialoffer'},  
   };
   const data = {
-    "expires_date": "2066-06-06T06:06:06Z",
+    "expires_date": "2222-06-06T06:06:06Z",
     "original_purchase_date": "2024-06-06T06:06:06Z",
     "purchase_date": "2024-06-06T06:06:06Z",
     "ownership_type": "PURCHASED",
